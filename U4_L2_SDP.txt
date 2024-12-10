@@ -1,0 +1,2 @@
+What property of stacks make them ideal for this project?
+  Stacks are from the bottom up, so its perfect for sorting backwards. 
